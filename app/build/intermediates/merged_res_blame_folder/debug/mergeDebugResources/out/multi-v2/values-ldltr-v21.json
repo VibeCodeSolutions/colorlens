@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kai.colorlens.app-mergeDebugResources-55:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/kaik/.gradle/caches/8.10/transforms/ffb5c5634ec7d07ab326abdb502ea6c1/transformed/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
